@@ -1,8 +1,8 @@
-#### Personalizando o Banco de Dados com Índices e Procedures
+### Personalizando o Banco de Dados com Índices e Procedures
 
 Criação de índices para consultas para o cenário de company com as perguntas (queries sql) para recuperação de informações.
 
-#### Utilização de procedures para manipulação de dados em Banco de Dados 
+### Utilização de procedures para manipulação de dados em Banco de Dados 
 
 **Objetivo:**  
 
