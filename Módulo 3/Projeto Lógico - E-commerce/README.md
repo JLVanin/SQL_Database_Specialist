@@ -18,8 +18,6 @@ Assim como demonstrado durante o desafio, realize a criação do Script SQL para
 - Elabore perguntas que podem ser respondidas pelas consultas;
 - As cláusulas podem estar presentes em mais de uma query;
 
-O projeto deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto lógico para fornecer o contexto sobre seu esquema lógico apresentado.
-
 ### Objetivo:
 
 [Relembrando] Aplique o mapeamento para o  cenário:
@@ -30,7 +28,7 @@ O projeto deverá ser adicionado a um repositório do Github para futura avalia�
 - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 - Entrega – Possui status e código de rastreio;
 
-*Algumas das perguntas que podes fazer para embasar as queries SQL:*
+**Algumas das perguntas que podes fazer para embasar as queries SQL:**
 
 - Quantos pedidos foram feitos por cada cliente?
 - Algum vendedor também é fornecedor?
